@@ -4319,8 +4319,6 @@ color: white;
 
 .stack{
 width: 90%;
-display: flex;
-justify-content: space-evenly;
 }
 
 .separator{
@@ -8028,11 +8026,6 @@ background: linear-gradient(90deg, var(--bs-primary), var(--bs-secondary));
 .px-5 {
   padding-right: 3rem !important;
   padding-left: 3rem !important;
-}
-
-.stack-title{
-display: flex;
-justify-content: center;
 }
 
 .py-0 {
