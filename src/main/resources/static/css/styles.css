@@ -4260,7 +4260,7 @@ height: 10%;
 .course-progress-1 {
     position: absolute;
     height: 100%;
-    width: 35%;
+    width: 100%;
     background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
     border-radius: 10%;
 }
@@ -4268,7 +4268,15 @@ height: 10%;
 .course-progress-2 {
     position: absolute;
     height: 100%;
-    width: 65%;
+    width: 100%;
+    background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+    border-radius: 10%;
+}
+
+.course-progress-3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
     background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
     border-radius: 10%;
 }
@@ -7762,6 +7770,10 @@ background: linear-gradient(90deg, var(--bs-primary), var(--bs-secondary));
 .me-5 {
   margin-right: 3rem !important;
 }
+
+.me-35{
+  margin-right: 35% !important;
+ }
 
 .me-auto {
   margin-right: auto !important;
