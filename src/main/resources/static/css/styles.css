@@ -7771,10 +7771,6 @@ background: linear-gradient(90deg, var(--bs-primary), var(--bs-secondary));
   margin-right: 3rem !important;
 }
 
-.me-35{
-  margin-right: 35% !important;
- }
-
 .me-auto {
   margin-right: auto !important;
 }
